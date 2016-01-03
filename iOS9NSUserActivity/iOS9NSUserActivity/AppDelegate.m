@@ -1,10 +1,4 @@
-//
-//  AppDelegate.m
-//  iOS9NSUserActivity
-//
-//  Created by 李东喜 on 16/1/3.
-//  Copyright © 2016年 don. All rights reserved.
-//
+
 
 #import "AppDelegate.h"
 

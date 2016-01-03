@@ -1,10 +1,3 @@
-//
-//  iOS9NSUserActivityTests.m
-//  iOS9NSUserActivityTests
-//
-//  Created by 李东喜 on 16/1/3.
-//  Copyright © 2016年 don. All rights reserved.
-//
 
 #import <XCTest/XCTest.h>
 
